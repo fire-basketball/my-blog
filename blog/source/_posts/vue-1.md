@@ -1,6 +1,6 @@
 ---
 title: vue —— 如何强制刷新子组件
-categories: "大前端"
+categories: "vue"
 tags: 
      - vue
 ---

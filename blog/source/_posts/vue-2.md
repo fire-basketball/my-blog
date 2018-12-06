@@ -1,6 +1,6 @@
 ---
 title: vue —— 如何监听路由传递过来的参数
-categories: "大前端"
+categories: "vue"
 tags: 
      - vue
 ---
